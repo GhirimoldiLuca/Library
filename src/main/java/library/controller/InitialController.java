@@ -2,10 +2,10 @@ package library.controller;
 
 import library.main.App;
 import library.main.Constants;
-import library.model.Admin;
-import library.model.Customer;
-import library.model.Librarian;
-import library.model.User;
+import library.users.Admin;
+import library.users.Customer;
+import library.users.Librarian;
+import library.users.User;
 
 public class InitialController implements Constants {
 
